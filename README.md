@@ -59,7 +59,6 @@ The hardware is designed for durability and reliability, using high-quality comp
 - **ESP32-S3**: Handles processing, BLE, and ESP-NOW communication.
 - **SIM7600-H**: Manages 4G LTE connectivity for remote data logging and OTA updates.
 - **STN OBD-II Chip**: Reads vehicle diagnostics and relays data to the main controller.
-- **BLE Module**: Provides proximity detection with the paired mobile app for vehicle access control.
 - **Wireless Relays & Sensors**: Communicate with the ESP32-S3 via ESP-NOW, allowing the device to detect and respond to tampering or security breaches.
 
 ## Firmware
