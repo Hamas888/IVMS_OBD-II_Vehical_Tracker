@@ -8,35 +8,13 @@
    - [Key Highlights](#key-highlights)  
 2. **[Features](#features)**  
 3. **[Technical Specifications](#technical-specifications)**  
-   - [ESP32-S3 Microcontroller](#esp32-s3-microcontroller)  
-   - [SIM7600-H Module](#sim7600-h-module)  
-   - [STN OBD-II Interface](#stn-obd-ii-interface)  
-   - [BLE Proximity Detection](#ble-proximity-detection)  
-   - [ESP-NOW Communication](#esp-now-communication)  
-4. **[Key Functions](#key-functions)**  
-   - [Vehicle Tracking and Status Monitoring](#vehicle-tracking-and-status-monitoring)  
-   - [Smart Security Features](#smart-security-features)  
-   - [Cloud Integration and OTA Updates](#cloud-integration-and-ota-updates)  
-5. **[Vehicle Parameters Monitored](#vehicle-parameters-monitored)**  
-   - [Basic Vehicle Data](#basic-vehicle-data)  
-   - [Engine Performance](#engine-performance)  
-   - [Sensor & Diagnostic Data](#sensor--diagnostic-data)  
-   - [Battery and System Health](#battery-and-system-health)  
+4. **[Key Functions](#key-functions)**   
+5. **[Vehicle Parameters Monitored](#vehicle-parameters-monitored)**   
 6. **[Hardware Design](#hardware-design)**  
    - [Key Components](#key-components)  
 7. **[Firmware](#firmware)**  
-   - [Data Collection and Logging](#data-collection-and-logging)  
-   - [Driving Behavior Analysis](#driving-behavior-analysis)  
-   - [Security Management](#security-management)  
-   - [OTA Firmware Updates](#ota-firmware-updates)  
 8. **[Future Enhancements](#future-enhancements)**  
-   - [Enhanced Data Analytics](#enhanced-data-analytics)  
-   - [Enhanced Security Features](#enhanced-security-features)  
-   - [Support for CAN Bus Integration](#support-for-can-bus-integration)  
-   - [Geofencing Capabilities](#geofencing-capabilities)  
 9. **[Licensing](#licensing)**  
-   - [Non-Commercial Use](#non-commercial-use)  
-   - [Commercial Use](#commercial-use)  
 
 ## Overview
 The IVMS OBD-II is a powerful, plug-and-play GPS vehicle tracker, designed for comprehensive real-time vehicle monitoring, tracking, and management. It connects directly to the OBD-II port, enabling access to various vehicle parameters, driver behavior insights, and remote management capabilities. This tracker is ideal for personal vehicle security and fleet management applications, offering seamless integration with a mobile app and cloud portal.
