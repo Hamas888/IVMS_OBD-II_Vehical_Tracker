@@ -97,4 +97,4 @@ The header files provided in this repository are available for non-commercial us
 - **Restricted Modification**: You may not reverse-engineer, modify, or distribute any part of the implementation not explicitly provided in this repository.
 
 ### Commercial Use
-To obtain full access to implementation files (.cpp) or to use this project in a commercial product, please contact [hamasaeed@gmail.com](mailto:hamasaeed@gmail.com) for a commercial license.
+To obtain full access to implementation files (.cpp) or to use this project in a commercial product, please contact [hamasaeed@gmail.com](mailto:hamasaeed888@gmail.com) for a commercial license.
